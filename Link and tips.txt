@@ -1,0 +1,10 @@
+
+*. link
+https://www.youtube.com/watch?v=_uZYOgzYheU&ab_channel=DotNetMastery
+
+
+*. 8 hours .net core full video
+https://www.youtube.com/watch?v=2c99pIfZq1s&ab_channel=FrankLiu
+
+*. github repo
+https://github.com/bhrugen/MagicVilla_API
