@@ -24,7 +24,8 @@ namespace MagicVillaApi.Data
                     Occupancy = 5,
                     Sqft = 550,
                     ImageUrl = "test.jpg",
-                    Amenity = ""
+                    Amenity = "",
+                    CreatedDate = DateTime.Now
                 },
                 new Villa()
                 {
@@ -35,7 +36,8 @@ namespace MagicVillaApi.Data
                     Occupancy = 5,
                     Sqft = 550,
                     ImageUrl = "test.jpg",
-                    Amenity = ""
+                    Amenity = "",
+                    CreatedDate = DateTime.Now
                 },
                 new Villa()
                 {
@@ -46,7 +48,8 @@ namespace MagicVillaApi.Data
                     Occupancy = 5,
                     Sqft = 550,
                     ImageUrl = "test.jpg",
-                    Amenity = ""
+                    Amenity = "",
+                    CreatedDate = DateTime.Now
                 },
                 new Villa()
                 {
@@ -57,7 +60,8 @@ namespace MagicVillaApi.Data
                     Occupancy = 5,
                     Sqft = 550,
                     ImageUrl = "test.jpg",
-                    Amenity = ""
+                    Amenity = "",
+                    CreatedDate = DateTime.Now
                 },
                 new Villa()
                 {
@@ -68,7 +72,8 @@ namespace MagicVillaApi.Data
                     Occupancy = 5,
                     Sqft = 550,
                     ImageUrl = "test.jpg",
-                    Amenity = ""
+                    Amenity = "",
+                    CreatedDate = DateTime.Now
                 });
         }
     }
